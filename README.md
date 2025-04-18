@@ -1,6 +1,6 @@
-✈️ Airline Registration System
+✈️ Airline Ticket Booking System
 📌 Overview
-The Airline Registration System is a console-based application written in C++ that allows airline management to add and manage airlines and tickets. It also enables users to register, log in, and purchase tickets. All data is stored in files using the C++ file handling system—no database is used.
+The Airline Ticket Booking System is a console-based application written in C++ that allows airline management to add and manage airlines and tickets. It also enables users to register, log in, and purchase tickets. All data is stored in files using the C++ file handling system—no database is used.
 
 This project demonstrates fundamental concepts of file I/O, object-oriented programming, and user interaction via the console.
 
